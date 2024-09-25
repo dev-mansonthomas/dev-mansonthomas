@@ -3,6 +3,8 @@
 ## 🚀 About Me
 
 I am a Sales Engineer and tech enthusiast with extensive experience in software solutions, technical architecture, and pre-sales activities. I have a strong background in integrating and demonstrating complex technologies, and I am particularly interested in the rapidly growing field of Artificial Intelligence.
+On my spare time, I'm volunteering for the French Red Cross as paramedics/ambulance driver 🚑 and software developer. I'm developping theses projects to contribute to helping others. It's also an opportunity to experiment new technologies, that I'm then using in my professionnal projects. 
+Mid 2024, I've completed a 10 weeks on site training on [Datascience and AI](https://www.lewagon.com/fr/data-science-course) with ![Le Wagon](le-wagon.jpg) Le Wagon : Mathematics, Statistics, Python, Machine Learning, Deep Learning, and most importantly, the methodology to clean, scale, equilibrate the data, split the data to avoid data leakage, choose the right model, evaluate and increase its performances 
 
 - 🔭 I’m currently exploring new opportunities in the AI sector.
 - 💬 Ask me about APIs, data integration, and cloud solutions.
@@ -29,7 +31,7 @@ An application designed to manage the French Red Cross's annual fundraising acti
 A system to manage ambulance emergency interventions and medical reporting.
 
 ### 📱 [Allo Comment Ça Va?](https://github.com/dev-mansonthomas/AlloCommentCaVa)
-A CRM-style application developed during the COVID-19 pandemic to provide support and connections for isolated individuals.
+A CRM-style application developed during the COVID-19 pandemic to provide support and connections for isolated individuals. I recieved the "COVID 19" medal from the French Red Cross for this project. 
 
 ## 🛠️ Technologies & Tools
 
@@ -40,5 +42,5 @@ A CRM-style application developed during the COVID-19 pandemic to provide suppor
 ## 🌐 Find me around the web
 
 - [LinkedIn](https://linkedin.com/in/mansonthomas)
-- [Personal Blog]([https://blog.mansonthomas.com/](https://blog.mansonthomas.com/))
+- [Personal Blog](https://blog.mansonthomas.com/)
 
