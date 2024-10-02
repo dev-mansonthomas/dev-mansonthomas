@@ -29,7 +29,7 @@ Mid 2024, I've completed a 10 weeks on site training on [Datascience and AI](htt
 ### 🔥 [RedCrossQuest](https://github.com/dev-mansonthomas/RedCrossQuest) / [RedQuest](https://github.com/dev-mansonthomas/RedQuest) / [RedCrossQuestCloudFunctions](https://github.com/dev-mansonthomas/RedCrossQuestCloudFunctions) / [RedCrossQuestUtilityBackend](https://github.com/dev-mansonthomas/RedCrossQuestUtilityBackend)
 An application designed to manage the French Red Cross's annual fundraising activities, built using Google Cloud services and TIBCO Spotfire.
 
-### 💻 [Regulation De Paris](https://github.com/dev-mansonthomas/RegulationDeParis)
+### 💻 [Regulation De Paris](https://github.com/dev-mansonthomas/crf-rdp)
 A system to manage ambulance emergency interventions and medical reporting.
 
 ### 📱 [Allo Comment Ça Va?](https://github.com/dev-mansonthomas/AlloCommentCaVa)
